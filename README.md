@@ -30,3 +30,52 @@ Built on Solana for fast, transparent, and low-cost transactions.
 ---
 
 ## 🚀 Getting Started
+
+
+
+
+🛣 Roadmap (Q2–Q4 2025)
+✅ V1 RC Car Prototypes (FPV-ready)
+
+✅ Whitepaper, Tokenomics, and Platform Architecture
+
+🔜 Smart Contracts on Solana
+
+🔜 NFT Integration & Marketplace Launch
+
+🔜 Beta Test Events with Live Races
+
+🔜 Factory Development & RWA Token Preorders
+
+🔜 Full Platform Alpha Launch
+
+🤝 Contributing
+We welcome developers, track owners, racers, and crypto builders.
+To contribute:
+
+Fork the repository
+
+Commit using descriptive messages
+
+Submit a pull request or open an issue for discussion
+
+Please follow our Code of Conduct and Contribution Guide.
+
+⚠️ Disclaimer
+This repository contains documentation and resources for an active project under development.
+Information, specifications, and content may change frequently and may not reflect final designs or roadmap positions.
+Nothing herein constitutes financial or legal advice. Use at your own risk and always refer to the latest release version.
+
+For the full disclaimer, visit our GitBook:
+📖 Maniacs Disclaimer
+
+📫 Contact & Community
+🌍 Website: x-media.agency
+
+🧵 Twitter: @Maniacs_gg
+
+💬 Telegram: t.me/maniacscommunity
+
+📧 Email: contact@x-media.agency
+
+Let’s build the future of racing together.
